@@ -1,8 +1,8 @@
-# Game Content Cache Hostnames
+# Google Content Cache Hostnames
 
 ## Introduction
 
-This is a list of all hostnames that are required to be redirected for running a game content cache. This list will change frequently so this is designed to be a definitive list.
+This is a list of all domains that are used for Google Chrome/ChromeOS updates. This is useful for caching servers and is for offloading heavy update loads in schools with Chromebooks.
 
 ## Usage
 
@@ -68,14 +68,6 @@ If the CDN you are adding does not already exist please remember to add an entry
 Certain CDNs are not suitable for inclusion on this list because the content is entirely delivered over HTTPS and thus cannot be cached.
 
 For a list of currently identified uncacheable CDNs please see these issues: https://github.com/uklans/cache-domains/issues?q=is%3Aissue+is%3Aopen+label%3Ahttps-cantfix
-
-## Frequently Asked Questions
-
-If you have any questions, please check [our FAQs](faq.md).
-
-## Issues and Feedback
-
-Please raise all issues and feedback on GitHub at [uklans/cache-domains](https://github.com/uklans/cache-domains/issues).
 
 ## Useful Information
 
