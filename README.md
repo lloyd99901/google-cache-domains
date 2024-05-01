@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a list of all domains that are used for Google Chrome/ChromeOS updates. This is useful for caching servers and is for offloading heavy update loads in schools with Chromebooks.
+This is a list of all domains that are used for Google Chrome/ChromeOS updates. Useful for download caching servers.
 
 ## Usage
 
